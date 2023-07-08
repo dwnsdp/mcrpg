@@ -1,0 +1,13 @@
+.physics_mod_cache/
+Xaero*
+cloth_local/
+crash-reports/
+fancymenu_instance_data/
+lightspeed-cache/
+logs/
+notes/
+resourcepacks/
+resources/#
+screenshots/
+usercache.json
+usernamecache.json
