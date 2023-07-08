@@ -1,0 +1,2 @@
+#Sat Jun 17 11:26:02 BST 2023
+MOTION_BLUR=false

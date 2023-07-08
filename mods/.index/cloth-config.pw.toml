@@ -1,0 +1,14 @@
+name = "Cloth Config API"
+filename = "cloth-config-6.3.81-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/GcaDCWXk/cloth-config-6.3.81-forge.jar"
+hash-format = "sha512"
+hash = "85f5c7d414ee6ab6f52713b4223e03ac836109dd08766ddc6ce8536475df6547a90aaf892d5c328bc0af7c39bdc6d88735d5dd1aeb0e4622f02a10f1bb622854"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "GcaDCWXk"

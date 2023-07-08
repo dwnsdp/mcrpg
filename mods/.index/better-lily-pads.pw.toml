@@ -1,0 +1,14 @@
+name = "Better Lily Pads"
+filename = "betterlily-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NRgsGZ6B/versions/7BHPkYI0/betterlily-1.18.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "2d6e093aaa801780b4507d3de6f584bdce3aa5736df80609ae4dde47f98be4eea706fbbcd57c06b03fa93292ea5ae3a2f7f1a695dfdd7becfe0c5c9cecc5f74e"
+
+[update]
+[update.modrinth]
+mod-id = "NRgsGZ6B"
+version = "7BHPkYI0"

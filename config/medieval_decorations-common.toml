@@ -1,0 +1,148 @@
+
+#Configs for Medieval Decorations
+#Disable Unwanted Features
+#Reload is required for changes to take effect
+#Everything is listed in ascending order
+[Blocks]
+
+	[Blocks.Barrels]
+		#Barrel Planter
+		barrel_planter = true
+		#Flower Barrels
+		barrel_of_flowers = true
+		barrel_of_alliums = true
+		barrel_of_azure_bluets = true
+		barrel_of_blue_orchids = true
+		barrel_of_cornflowers = true
+		barrel_of_dandelions = true
+		barrel_of_lilac = true
+		barrel_of_lilies_of_the_valley = true
+		barrel_of_oxeye_daisies = true
+		barrel_of_peony = true
+		barrel_of_poppies = true
+		barrel_of_roses = true
+		barrel_of_sunflowers = true
+		barrel_of_tulips = true
+
+	[Blocks.Bars]
+		#Bars
+		acacia_bars = true
+		birch_bars = true
+		crimson_bars = true
+		dark_oak_bars = true
+		jungle_bars = true
+		oak_bars = true
+		spruce_bars = true
+		warped_bars = true
+		diamond_bars = true
+		gold_bars = true
+		#Grates
+		acacia_grate = true
+		birch_grate = true
+		crimson_grate = true
+		dark_oak_grate = true
+		jungle_grate = true
+		oak_grate = true
+		spruce_grate = true
+		warped_grate = true
+		diamond_grate = true
+		gold_grate = true
+		iron_grate = true
+
+	[Blocks.Benches]
+		#Benches
+		acacia_bench = true
+		birch_bench = true
+		crimson_bench = true
+		dark_oak_bench = true
+		jungle_bench = true
+		oak_bench = true
+		spruce_bench = true
+		warped_bench = true
+		iron_bench = true
+
+	[Blocks.Books]
+		#Books
+		stacked_books = true
+
+	[Blocks.Braziers]
+		#Braziers
+		gold_brazier = true
+		iron_brazier = true
+		soul_gold_brazier = true
+		soul_iron_brazier = true
+		#Fire Bowls
+		gold_fire_bowl = true
+		iron_fire_bowl = true
+		soul_gold_fire_bowl = true
+		soul_iron_fire_bowl = true
+
+	[Blocks.Candles]
+		#Candelabras
+		bone_two_arm_candelabra = true
+		bone_three_arm_candelabra = true
+		bone_five_arm_candelabra = true
+		bone_seven_arm_candelabra = true
+		diamond_two_arm_candelabra = true
+		diamond_three_arm_candelabra = true
+		diamond_five_arm_candelabra = true
+		diamond_seven_arm_candelabra = true
+		gold_two_arm_candelabra = true
+		gold_three_arm_candelabra = true
+		gold_five_arm_candelabra = true
+		gold_seven_arm_candelabra = true
+		iron_two_arm_candelabra = true
+		iron_three_arm_candelabra = true
+		iron_five_arm_candelabra = true
+		iron_seven_arm_candelabra = true
+		#Candlesticks
+		bone_candle_stand = true
+		bone_skull_candle_stand = true
+		diamond_candle_stand = true
+		gold_candle_stand = true
+		#Large Candles
+		iron_candle_stand = true
+		white_large_candle = true
+		orange_large_candle = true
+		magenta_large_candle = true
+		light_blue_large_candle = true
+		yellow_large_candle = true
+		lime_large_candle = true
+		pink_large_candle = true
+		gray_large_candle = true
+		light_gray_large_candle = true
+		cyan_large_candle = true
+		purple_large_candle = true
+		blue_large_candle = true
+		brown_large_candle = true
+		green_large_candle = true
+		red_large_candle = true
+		black_large_candle = true
+		#Statues Holding Candles
+		gold_angel_statue_holding_candelabra = true
+		gold_man_statue_holding_candle = true
+		gold_villager_statue_holding_candle = true
+		iron_angel_statue_holding_candelabra = true
+		stone_angel_statue_holding_candelabra = true
+		stone_man_statue_holding_candle = true
+		stone_villager_statue_holding_candle = true
+		#Vase Candleholders
+		glass_vase_candleholder = true
+		white_stained_glass_vase_candleholder = true
+		orange_stained_glass_vase_candleholder = true
+		magenta_stained_glass_vase_candleholder = true
+		light_blue_stained_glass_vase_candleholder = true
+		yellow_stained_glass_vase_candleholder = true
+		lime_stained_glass_vase_candleholder = true
+		pink_stained_glass_vase_candleholder = true
+		gray_stained_glass_vase_candleholder = true
+		light_gray_stained_glass_vase_candleholder = true
+		cyan_stained_glass_vase_candleholder = true
+		purple_stained_glass_vase_candleholder = true
+		blue_stained_glass_vase_candleholder = true
+		brown_stained_glass_vase_candleholder = true
+		green_stained_glass_vase_candleholder = true
+		red_stained_glass_vase_candleholder = true
+		black_stained_glass_vase_candleholder = true
+		mosaic_stained_glass_vase_candleholder = true
+

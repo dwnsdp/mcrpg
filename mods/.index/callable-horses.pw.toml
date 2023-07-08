@@ -1,0 +1,14 @@
+name = "Callable Horses"
+filename = "callablehorses-1.18.2-1.2.2.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c47bd415707c047131d8a51aa8b8877485e87b16"
+
+[update]
+[update.curseforge]
+file-id = 4111364
+project-id = 331746

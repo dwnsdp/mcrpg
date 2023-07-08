@@ -1,0 +1,14 @@
+name = "Project: Save the Pets!"
+filename = "projectsavethepets-3.1.0-old.1.18+2022.10af157d70.forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/VJ6H5k8J/versions/3.1.0-old.1.18%2B2022.10af157d70.forge/projectsavethepets-3.1.0-old.1.18%2B2022.10af157d70.forge.jar"
+hash-format = "sha512"
+hash = "72c0c5caa00e8a9fce58c26778614fe68acac10009737aa393e5a17c7f38c459c91f248b92c8dfe2b88c71a6d92673b56c2dc0baa5b42334cac31ab865dd2a71"
+
+[update]
+[update.modrinth]
+mod-id = "VJ6H5k8J"
+version = "RyuYNi3g"

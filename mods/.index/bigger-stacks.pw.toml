@@ -1,0 +1,14 @@
+name = "Bigger Stacks"
+filename = "biggerstacks-1.18.2-6.8.1-all.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ac1c6f4cc6b6ddbf3f154c0f53bbb8216dbc9e85"
+
+[update]
+[update.curseforge]
+file-id = 4498838
+project-id = 564896

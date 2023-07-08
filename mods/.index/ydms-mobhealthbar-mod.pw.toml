@@ -1,0 +1,14 @@
+name = "YDM's MobHealthBar"
+filename = "mobhealthbar-1-18-1-2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "aec0240cfcb1f5d30ac5fcbb1da189da2d75cb26"
+
+[update]
+[update.curseforge]
+file-id = 3668888
+project-id = 559894

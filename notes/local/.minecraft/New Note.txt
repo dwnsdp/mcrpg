@@ -1,0 +1,7 @@
+ISSUES
+hud bloat - toro
+backpack - quark
+quiver - quark
+skills find replacement or delete
+weapon textures, remove big, keep simple, change to mcd
+ctm

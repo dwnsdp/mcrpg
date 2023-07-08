@@ -1,0 +1,14 @@
+name = "Reputation"
+filename = "Reputation-1.18-0.9.9.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "01073f2a41ba8079f3637f2b3f5450e59d0cf8b0"
+
+[update]
+[update.curseforge]
+file-id = 4412129
+project-id = 579116

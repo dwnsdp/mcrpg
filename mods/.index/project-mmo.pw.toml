@@ -1,0 +1,14 @@
+name = "Project MMO"
+filename = "pmmo-1.18.2-6.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/KFQYC1Uy/versions/Cvc6zdC6/pmmo-1.18.2-6.1.1.jar"
+hash-format = "sha512"
+hash = "601bd75c9a6716a56d5a8fa861a0f0700699d527344277e21cac924ec6e0587c61738df7bbbfd9fe93178204311e88c01d760ebb8ac1495c22983f823fe7a283"
+
+[update]
+[update.modrinth]
+mod-id = "KFQYC1Uy"
+version = "Cvc6zdC6"

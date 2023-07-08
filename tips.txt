@@ -1,0 +1,65 @@
+Craft an antique atlas to find your way!
+Create a custom area by placing a sign, just google "Areas Mod" for more info!
+Customise your bed with a banner!
+Massive stack sizes!
+Craft a furnace boat to go faster!
+Craft a chest boat to store your goodies!
+Use chalk to never get lost again!
+Sneak up behind an enemy without them noticing!
+Press <R> to do a roll!
+Press <F6> to toggle first person model!
+Now with better third person camera mode, just press <F5>
+Dont get your reputation to low in villages!
+Campfires heal friendlies and ward of hostile enemies!
+Press <L> to open advancement menu!
+Craft a dummy to test your weapons!
+Press <N> to open notes!
+Now with SPICY combat!
+Craft a selection of weapons!
+Now in: bone meal is universal!
+Villagers are claustrophobic!
+Right click with a tool or empty hand on a stair or slab to sit down!
+Chains connect blocks!
+Dispensors place blocks!
+The feeding trough can automatically breed animals
+Pistons pushing an Iron Rod will have it work as a drill!
+Movable tile entities!
+Wool under a track shuts up minecarts!
+Shift-right clicking an armor stand will swap its armor set for whatever armor you're currently wearing!
+Ancient Tomes are a rare loot item from dungeons and stronghold libraries, being usable to upgrade enchantments!
+Bottle a cloud and place it in mid air!
+Campfires boost elytra, use one to take off!
+Note Blocks with heads attached to their side will emit the respective mob's sound instead of a note!
+Shulker Boxes can be created by holding a shulker shell in both hands and shift-right clicking a chest!
+Special arrows can be crafted for: explosions, fire, teleportation, and more!
+Press <P> to set a horse as your own whilst riding and press <V> to call it!
+Now with more armour than before...
+Seasons effect the fertility of crops.
+Loot is unique for everyone!
+Sleeping bags let you sleep without reseting your spawn!
+So... Much... Building blocks....
+Bamboo can be made into building blocks!
+Daggers attack fast for nimble combat
+A broadsword is a great way to deal a lot of damage
+Bombs!?
+What if... Fletching tables crafted all the different types of arrows in this pack. I can't be ass'd but if you can contact me!
+Golden hoppers filter items.
+Copper pipes transport items.
+No more OP elytra!
+Hold <B> for a faint attack!
+Numpad is emotes!
+Use compost for richer plants!
+Craft a stove to cook up with treat!
+So much fooood!
+Hopefully not irritating!
+Inspired by Epic NPC Man on Youtube!
+Iron Farms 2: Nerfed.
+Right click a dirt block with wheat seeds to grass it.
+Shift right click a riding entity to dismount it.
+Shift right click with an empty bottle to harvest your xp.
+Press <alt> to zoom.
+Right click with an empty bottle whilst swimming to breathe some fresh air.
+Bouncy beds.
+Right click a pufferfish, bee, or cave spider with an empty bottle to extract its posion.
+Hold a bell in your offhand whilst fishing to hear a notification.
+Ice under a farmland block stops it growing.

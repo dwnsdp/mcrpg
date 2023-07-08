@@ -1,0 +1,14 @@
+name = "First-person Model"
+filename = "firstperson-forge-2.2.2-mc1.18.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/ZKWzovTn/firstperson-forge-2.2.2-mc1.18.2.jar"
+hash-format = "sha512"
+hash = "c1e39bea73c26272cb3978e5aa55d935fa92c27da1c6d573430f87dda0d0e82a3db6d1be98079be7c98fdec9fab87e0e1b9ffa460051108708549a3be54be5ad"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "ZKWzovTn"

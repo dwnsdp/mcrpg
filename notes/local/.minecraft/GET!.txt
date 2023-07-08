@@ -1,0 +1,4 @@
+leather_chestplate
+comforts:red_sleeping_bag
+stone_axe
+stone_pickaxe

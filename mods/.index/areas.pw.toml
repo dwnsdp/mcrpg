@@ -1,0 +1,14 @@
+name = "Areas"
+filename = "areas-1.18.2-4.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NWvsqJ2Z/versions/KCLzvoKF/areas-1.18.2-4.3.jar"
+hash-format = "sha512"
+hash = "858772a10ff669e6bdb61d986666b3ceeb33f2ae45507b73c93c227cb4161b4a12d296c91ce8dcad20e300320478efd232a21fd1ac4d3287b6865901e33730c6"
+
+[update]
+[update.modrinth]
+mod-id = "NWvsqJ2Z"
+version = "KCLzvoKF"

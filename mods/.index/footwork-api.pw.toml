@@ -1,0 +1,14 @@
+name = "Footwork API"
+filename = "footwork-2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f0e3e8c7c77cdbee965fa6ad7d89f87cf6714e8a"
+
+[update]
+[update.curseforge]
+file-id = 4028902
+project-id = 608407

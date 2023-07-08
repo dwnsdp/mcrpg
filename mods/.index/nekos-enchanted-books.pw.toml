@@ -1,0 +1,14 @@
+name = "Neko's Enchanted Books"
+filename = "NekosEnchantedBooks-1.18.2-1.8.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "03d51ea0e4b264481eea2b66e66637fee0f3722e"
+
+[update]
+[update.curseforge]
+file-id = 4018073
+project-id = 441114

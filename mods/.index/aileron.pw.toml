@@ -1,0 +1,14 @@
+name = "Aileron"
+filename = "aileron-1.18.2-forge-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/b8kG1VGq/versions/1.0.0-forge/aileron-1.18.2-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "95cbf9136f1771ec53f56ebb1d08dcaf49b84fa37cfdea48f97812d7c6557d8819c8ffb045234be4f5202278d08d586081af06a41a0ae17ef0cd25d0d9339d3c"
+
+[update]
+[update.modrinth]
+mod-id = "b8kG1VGq"
+version = "uevMuWsw"

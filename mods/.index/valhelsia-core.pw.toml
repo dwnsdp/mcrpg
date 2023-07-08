@@ -1,0 +1,14 @@
+name = "Valhelsia Core"
+filename = "valhelsia_core-forge-1.18.2-0.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/HsdNFinx/versions/0.3.1/valhelsia_core-forge-1.18.2-0.3.1.jar"
+hash-format = "sha512"
+hash = "eb3195d6b5bd0d651b0782ee069473b5a6dd25d624b48c748cf5f0d954f2d699662cc0d86bc7d387034d7e827b3cccc2a5a17500cda0a8673888a7d9e1cedb82"
+
+[update]
+[update.modrinth]
+mod-id = "HsdNFinx"
+version = "ZqsSH535"
